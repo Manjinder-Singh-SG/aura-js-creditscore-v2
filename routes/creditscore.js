@@ -2,7 +2,7 @@
  * GET list of all scores. Will return a simple Welcome message first!
  * Then we will enhance this method to connect to a MySQL service broker instance,
  * run a simple query and return a response message.
- *
+ * 
  * Note: In this version we don't persist any scores so there are no scores to return.
  */
 
